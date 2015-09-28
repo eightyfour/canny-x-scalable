@@ -1,0 +1,19 @@
+{
+  "name": "canny-x-scalable",
+  "auth": "eightyfour",
+  "email": "eightyfour@thinkuseful.de",
+  "description": "A canny module with which you can simply organize div elements in your browser.",
+  "version": "0.0.1",
+  "dependencies": {},
+  "readmeFilename": "README.md",
+  "main": "x-scalable.js",
+  "repository": "",
+  "keywords": [
+    "canny",
+    "dom",
+    "html",
+    "module"
+  ],
+  "license": "MIT",
+  "devDependencies": {}
+}
